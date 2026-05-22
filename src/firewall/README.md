@@ -7,7 +7,7 @@ Sets up an iptables-based firewall that restricts network access to only specifi
 
 ```json
 "features": {
-    "ghcr.io/w3cj/devcontainer-features/firewall:latest": {}
+    "ghcr.io/ShubhamOulkar/firewall-dev-kit/firewall:0": {}
 }
 ```
 
@@ -170,4 +170,4 @@ When verbose mode is enabled, the following components are activated:
 
 ---
 
-_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/w3cj/devcontainer-features/blob/main/src/firewall/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
+_Note: This file was auto-generated from the [devcontainer-feature.json](https://github.com/ShubhamOulkar/firewall-dev-kit/blob/main/src/firewall/devcontainer-feature.json).  Add additional notes to a `NOTES.md`._
