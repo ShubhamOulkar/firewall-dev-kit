@@ -15,7 +15,7 @@ Add features to your `devcontainer.json`:
 ```json
 {
     "features": {
-        "ghcr.io/w3cj/devcontainer-features/firewall:latest": {
+        "ghcr.io/shubhamoulkar/firewall-dev-kit/firewall:0": {
             "githubIps": true,
             "claudeCode": true
         }
