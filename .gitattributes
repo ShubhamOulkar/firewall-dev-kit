@@ -1,0 +1,12 @@
+# Default behavior (auto-detect text files)
+* text=auto
+
+# Force LF for shell scripts (critical for devcontainers/Linux execution)
+*.sh text eol=lf
+
+# Force LF for devcontainer configuration files
+*.json text eol=lf
+Dockerfile* text eol=lf
+Makefile text eol=lf
+*.md text eol=lf
+.gitattributes text eol=lf
