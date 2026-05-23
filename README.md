@@ -1,6 +1,6 @@
 # Dev Container Features
 
-A collection of Dev Container Features published to `ghcr.io/w3cj/devcontainer-features`.
+A collection of Dev Container Features published to `ghcr.io/shubhamoulkar/firewall-dev-kit`.
 
 ## Features
 
